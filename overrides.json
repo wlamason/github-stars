@@ -1,0 +1,17 @@
+{
+    "hidden_languages": [],
+    "hidden_repos": [
+        "wlamason/opendota.js",
+        "wlamason/wlamason.github.io",
+        "wlamason/discord-tinyurl",
+        "wlamason/links",
+        "wlamason/discord-data",
+        "wlamason/scripts",
+        "tukisblukis/tukisblukis.github.io"
+    ],
+    "overrides": {
+        "phiresky/sql.js-httpvfs": {
+            "description": "sql.js is a light wrapper around SQLite compiled with EMScripten for use in the browser (client-side)."
+        }
+    }
+}
