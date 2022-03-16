@@ -1,15 +1,14 @@
 import argparse
-from contextlib import contextmanager
 import json
 import logging
 import os
-from collections import defaultdict
-from dataclasses import dataclass
 import time
+from collections import defaultdict
+from contextlib import contextmanager
+from dataclasses import dataclass
 from typing import Dict, List, Set, Tuple, TypedDict, Union
 
 from github import Github
-
 
 logger = logging.getLogger(__name__)
 
@@ -47,7 +46,9 @@ def time_it(msg: str):
         logger.info(f"{msg} took {(end - start) / 1_000_000}ms")
 
 
-def write_md(language_to_repos: Dict[str, Repo], filename: str, hidden_languages: Set[str], hidden_repos: Set[str]) -> None:
+def write_md(
+    language_to_repos: Dict[str, Repo], filename: str, hidden_languages: Set[str], hidden_repos: Set[str]
+) -> None:
     """Write markdown file showcasing a user's github stars."""
     with open(filename, "w") as f:
         f.write("# ⭐ Stars\n\n")
@@ -76,7 +77,7 @@ def write_md(language_to_repos: Dict[str, Repo], filename: str, hidden_languages
                 if repo["repo_name"] in hidden_repos:
                     continue
 
-                description = f" - {repo['description']}" if repo['description'] is not None else ""
+                description = f" - {repo['description']}" if repo["description"] is not None else ""
                 f.write(f"- ⭐{repo['stars']} [{repo['repo_name']}]({repo['url']}){description}\n")
 
 
@@ -151,6 +152,7 @@ def get_starred_repos(username: str) -> List[Repo]:
     logger.debug(f"repos = {repos}")
 
     return repos
+
 
 @time_it("github_stars.py")
 def main(args: Arguments) -> None:
