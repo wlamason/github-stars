@@ -1,0 +1,33 @@
+name: stars
+
+# Controls when the workflow will run
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job named stars
+  stars:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - name: docker build
+        run: |
+          docker build . -t wlamason/github-stars
+      - name: generate stars.md
+        env:
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+        run: |
+          docker run --rm -v "$(pwd):/src" -e "GIT_TOKEN=$GIT_TOKEN" wlamason/github-stars python3 github_stars.py -v --json wlamason
+      - name: git push
+        run: |
+          git add stars.md
+          git commit -m "$(date +%F) stars workflow run"
+          git push
