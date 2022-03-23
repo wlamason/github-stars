@@ -28,6 +28,9 @@ jobs:
           docker run --rm -v "$(pwd):/src" -e "GIT_TOKEN=$GIT_TOKEN" wlamason/github-stars python3 github_stars.py -v --json wlamason
       - name: git push
         run: |
+          git config --global user.name "wlamason"
+          git config --global user.email "lamasonian@gmail.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GIT_TOKEN }}@github.com/${{ github.repository }}
           git add stars.md
           git commit -m "$(date +%F) stars workflow run"
           git push
