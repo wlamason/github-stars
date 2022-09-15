@@ -39,232 +39,232 @@
 
 # C
 
-- ⭐56759 [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-- ⭐23687 [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
-- ⭐23014 [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- ⭐19965 [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- ⭐19564 [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-- ⭐13625 [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
-- ⭐9092 [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
-- ⭐7315 [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
-- ⭐7206 [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
-- ⭐3251 [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+- ⭐56773 [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+- ⭐23692 [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
+- ⭐23022 [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- ⭐19973 [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- ⭐19574 [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+- ⭐13631 [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
+- ⭐9097 [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+- ⭐7322 [cstack/db_tutorial](https://github.com/cstack/db_tutorial) - Writing a sqlite clone from scratch in C
+- ⭐7237 [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension
+- ⭐3252 [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower) - Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
 - ⭐2924 [kohler/gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations
-- ⭐1863 [CTurt/FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) - PlayStation 2 DVD Player Exploit
+- ⭐1864 [CTurt/FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot) - PlayStation 2 DVD Player Exploit
 - ⭐1373 [ThakeeNathees/pocketlang](https://github.com/ThakeeNathees/pocketlang) - A lightweight, fast embeddable scripting language.
 - ⭐1198 [dekuNukem/bob_cassette_rewinder](https://github.com/dekuNukem/bob_cassette_rewinder) - Renew and Refill Bob Cassettes for 98% Cost Saving!
-- ⭐1154 [bloomberg/comdb2](https://github.com/bloomberg/comdb2) - Bloomberg's distributed RDBMS
+- ⭐1158 [bloomberg/comdb2](https://github.com/bloomberg/comdb2) - Bloomberg's distributed RDBMS
 - ⭐376 [laurenz/oracle_fdw](https://github.com/laurenz/oracle_fdw) - PostgreSQL Foreign Data Wrapper for Oracle
 - ⭐361 [orafce/orafce](https://github.com/orafce/orafce) - The "orafce" project implements in Postgres some of the functions from the Oracle database that are missing (or behaving differently).Those functions were verified on Oracle 10g, and the module is useful for production work.
 - ⭐45 [darold/pgtt](https://github.com/darold/pgtt) - PostgreSQL extension to create, manage and use Oracle-style Global Temporary Tables and the others RDBMS
 
 # C#
 
-- ⭐10559 [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-- ⭐4271 [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
+- ⭐10561 [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- ⭐4276 [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - ⭐903 [crosire/scripthookvdotnet](https://github.com/crosire/scripthookvdotnet) - An ASI plugin for Grand Theft Auto V, which allows running scripts written in any .NET language in-game.
 - ⭐152 [nguyenqthai/Algs4Net](https://github.com/nguyenqthai/Algs4Net) - A .NET library and tool to use with the Algorithms, 4th Edition textbook by Robert Sedgewick and Kevin Wayne 
 - ⭐50 [angellaa/algs4](https://github.com/angellaa/algs4) - Algorithms in C# ported from the book "Algorithms 4th Edition".
 
 # C++
 
-- ⭐35532 [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-- ⭐17024 [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
-- ⭐16009 [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second 
-- ⭐13717 [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
-- ⭐11854 [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- ⭐10144 [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
-- ⭐2781 [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
-- ⭐2593 [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.
-- ⭐1340 [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
-- ⭐854 [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
+- ⭐35549 [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+- ⭐17027 [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
+- ⭐16013 [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second 
+- ⭐13724 [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+- ⭐11895 [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
+- ⭐10149 [apache/arrow](https://github.com/apache/arrow) - Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing
+- ⭐2786 [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
+- ⭐2594 [citizenfx/fivem](https://github.com/citizenfx/fivem) - The source code for the Cfx.re modification frameworks, such as FiveM, RedM and LibertyM, as well as FXServer.
+- ⭐1341 [CalcProgrammer1/OpenRGB](https://github.com/CalcProgrammer1/OpenRGB) - Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS.  Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB.  Releases can be found on GitLab.
+- ⭐856 [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - ⭐28 [Le-Fix/gta5-quadcopter](https://github.com/Le-Fix/gta5-quadcopter) - Adds a basic quadcopter sim to GTA V
 - ⭐2 [minlav/daruma-visualization](https://github.com/minlav/daruma-visualization)
 - ⭐2 [minlav/daruma](https://github.com/minlav/daruma)
 
 # CSS
 
-- ⭐38134 [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- ⭐38146 [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - ⭐9337 [fgnass/spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator
-- ⭐7221 [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
-- ⭐4231 [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
-- ⭐1359 [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
+- ⭐7224 [kognise/water.css](https://github.com/kognise/water.css) - A drop-in collection of CSS styles to make simple websites just a little nicer
+- ⭐4232 [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
+- ⭐1363 [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 
 # Clojure
 
-- ⭐1976 [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
+- ⭐1975 [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
 
 # Cuda
 
-- ⭐1532 [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
+- ⭐1534 [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database.
 
 # Dhall
 
-- ⭐3704 [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
+- ⭐3707 [dhall-lang/dhall-lang](https://github.com/dhall-lang/dhall-lang) - Maintainable configuration files
 
 # Elixir
 
-- ⭐5336 [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
+- ⭐5338 [supabase/realtime](https://github.com/supabase/realtime) - Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
 - ⭐173 [cainophile/cainophile](https://github.com/cainophile/cainophile)
 - ⭐21 [cainophile/pgoutput_decoder](https://github.com/cainophile/pgoutput_decoder) - Decodes logical replication messages from Postgres pgoutput plugin
 
 # Go
 
-- ⭐103705 [golang/go](https://github.com/golang/go) - The Go programming language
-- ⭐46926 [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- ⭐44259 [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- ⭐39591 [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-- ⭐35248 [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage 
-- ⭐34572 [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- ⭐32273 [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- ⭐27523 [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- ⭐24118 [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- ⭐23723 [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- ⭐23119 [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
-- ⭐22099 [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- ⭐17799 [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-- ⭐17649 [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
-- ⭐14699 [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
-- ⭐14132 [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
-- ⭐13873 [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
-- ⭐12653 [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- ⭐12233 [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-- ⭐11847 [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
-- ⭐11697 [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
-- ⭐11138 [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- ⭐11030 [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
-- ⭐10112 [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- ⭐8471 [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
-- ⭐8175 [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- ⭐7316 [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- ⭐3353 [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series)
-- ⭐2963 [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
-- ⭐1612 [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
-- ⭐577 [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
+- ⭐103725 [golang/go](https://github.com/golang/go) - The Go programming language
+- ⭐46941 [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- ⭐44280 [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
+- ⭐39605 [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+- ⭐35265 [minio/minio](https://github.com/minio/minio) - Multi-Cloud :cloud: Object Storage 
+- ⭐34581 [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- ⭐32294 [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- ⭐27558 [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+- ⭐24126 [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
+- ⭐23728 [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- ⭐23137 [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+- ⭐22108 [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- ⭐17818 [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- ⭐17670 [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
+- ⭐14705 [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+- ⭐14138 [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+- ⭐13875 [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
+- ⭐12666 [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) - Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- ⭐12236 [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+- ⭐12059 [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+- ⭐11851 [PuerkitoBio/goquery](https://github.com/PuerkitoBio/goquery) - A little like that j-thing, only in Go.
+- ⭐11702 [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes
+- ⭐11035 [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- ⭐10129 [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
+- ⭐8475 [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
+- ⭐8176 [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
+- ⭐7329 [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+- ⭐3358 [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series)
+- ⭐2968 [rs/xid](https://github.com/rs/xid) - xid is a globally unique id generator thought for the web
+- ⭐1658 [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
+- ⭐579 [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼
 
 # HTML
 
-- ⭐4393 [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
+- ⭐4396 [abhivaikar/howtheytest](https://github.com/abhivaikar/howtheytest) - A collection of public resources about how software companies test their software
 - ⭐2884 [erebe/personal-server](https://github.com/erebe/personal-server) - Personal server configuration with k3s
 - ⭐1742 [mixu/markdown-styles](https://github.com/mixu/markdown-styles) - Markdown to static HTML generator and multiple CSS themes for Markdown
-- ⭐1477 [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
-- ⭐668 [vladocar/Basic.css](https://github.com/vladocar/Basic.css) - Basic.css - Classless CSS Starter File
+- ⭐1479 [snakemake/snakemake](https://github.com/snakemake/snakemake) - This is the development home of the workflow management system Snakemake. For general information, see
+- ⭐669 [vladocar/Basic.css](https://github.com/vladocar/Basic.css) - Basic.css - Classless CSS Starter File
 - ⭐218 [russellrosario/JavaScripter](https://github.com/russellrosario/JavaScripter) - Helping junior developers navigate the complex world of software engineering without experiencing information overload.
 
 # Haskell
 
-- ⭐19180 [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- ⭐19185 [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
 # Java
 
-- ⭐76728 [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
-- ⭐58177 [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- ⭐47694 [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
-- ⭐45682 [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- ⭐28273 [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-- ⭐23053 [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
-- ⭐21365 [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-- ⭐19781 [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
-- ⭐19738 [apache/flink](https://github.com/apache/flink) - Apache Flink
-- ⭐19461 [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-- ⭐15933 [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
-- ⭐12609 [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
-- ⭐12132 [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- ⭐12038 [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
-- ⭐11441 [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.
-- ⭐10661 [redis/jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
-- ⭐10209 [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
-- ⭐9700 [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
-- ⭐9358 [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
-- ⭐7521 [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
-- ⭐7421 [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
-- ⭐7064 [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
-- ⭐6318 [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- ⭐6113 [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
-- ⭐5846 [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
-- ⭐5740 [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
-- ⭐5605 [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
-- ⭐5092 [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
-- ⭐4705 [lettuce-io/lettuce-core](https://github.com/lettuce-io/lettuce-core) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
-- ⭐4632 [apache/hbase](https://github.com/apache/hbase) - Apache HBase
-- ⭐4516 [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
-- ⭐3506 [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
-- ⭐3372 [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-- ⭐3260 [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
+- ⭐76757 [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
+- ⭐58183 [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+- ⭐47711 [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+- ⭐45691 [google/guava](https://github.com/google/guava) - Google core libraries for Java
+- ⭐28292 [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+- ⭐23058 [apache/kafka](https://github.com/apache/kafka) - Mirror of Apache Kafka
+- ⭐21366 [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+- ⭐19790 [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
+- ⭐19744 [apache/flink](https://github.com/apache/flink) - Apache Flink
+- ⭐19464 [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+- ⭐15934 [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
+- ⭐12612 [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
+- ⭐12139 [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+- ⭐12040 [apache/druid](https://github.com/apache/druid) - Apache Druid: a high performance real-time analytics database.
+- ⭐11445 [google/guice](https://github.com/google/guice) - Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.
+- ⭐10663 [redis/jedis](https://github.com/redis/jedis) - Redis Java client designed for performance and ease of use.
+- ⭐10210 [careercup/CtCI-6th-Edition](https://github.com/careercup/CtCI-6th-Edition) - Cracking the Coding Interview 6th Ed. Solutions
+- ⭐9703 [jhy/jsoup](https://github.com/jhy/jsoup) - jsoup: the Java HTML parser, built for HTML editing, cleaning, scraping, and XSS safety.
+- ⭐9359 [perwendel/spark](https://github.com/perwendel/spark) - A simple expressive web framework for java. Spark has a kotlin DSL https://github.com/perwendel/spark-kotlin
+- ⭐7522 [apache/cassandra](https://github.com/apache/cassandra) - Mirror of Apache Cassandra
+- ⭐7431 [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+- ⭐7065 [kevin-wayne/algs4](https://github.com/kevin-wayne/algs4) - Algorithms, 4th edition textbook code and libraries
+- ⭐6322 [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- ⭐6126 [trinodb/trino](https://github.com/trinodb/trino) - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)
+- ⭐5851 [apache/beam](https://github.com/apache/beam) - Apache Beam is a unified programming model for Batch and Streaming data processing.
+- ⭐5741 [MindorksOpenSource/from-java-to-kotlin](https://github.com/MindorksOpenSource/from-java-to-kotlin) - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
+- ⭐5607 [graphql-java/graphql-java](https://github.com/graphql-java/graphql-java) - GraphQL Java implementation
+- ⭐5094 [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
+- ⭐4708 [lettuce-io/lettuce-core](https://github.com/lettuce-io/lettuce-core) - Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.
+- ⭐4633 [apache/hbase](https://github.com/apache/hbase) - Apache HBase
+- ⭐4519 [apache/camel](https://github.com/apache/camel) - Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+- ⭐3509 [apache/hudi](https://github.com/apache/hudi) - Upserts, Deletes And Incremental Processing on Big Data.
+- ⭐3374 [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
+- ⭐3264 [apache/iceberg](https://github.com/apache/iceberg) - Apache Iceberg
 - ⭐1499 [spring-projects/spring-data-redis](https://github.com/spring-projects/spring-data-redis) - Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
-- ⭐1368 [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
-- ⭐1164 [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata
-- ⭐1012 [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
-- ⭐827 [sedmelluq/lavaplayer](https://github.com/sedmelluq/lavaplayer) - Audio player library for Discord
+- ⭐1369 [Wisser/Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool.
+- ⭐1165 [MarquezProject/marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata
+- ⭐1020 [OpenLineage/OpenLineage](https://github.com/OpenLineage/OpenLineage) - An Open Standard for lineage metadata collection
+- ⭐828 [sedmelluq/lavaplayer](https://github.com/sedmelluq/lavaplayer) - Audio player library for Discord
 - ⭐220 [streamthoughts/kafka-connect-file-pulse](https://github.com/streamthoughts/kafka-connect-file-pulse) - 🔗 A multipurpose Kafka Connect connector that makes it easy to parse, transform and stream any file, in any format, into Apache Kafka
-- ⭐172 [ozimov/embedded-redis](https://github.com/ozimov/embedded-redis) - Redis embedded server
+- ⭐173 [ozimov/embedded-redis](https://github.com/ozimov/embedded-redis) - Redis embedded server
 - ⭐88 [jenkinsci/chucknorris-plugin](https://github.com/jenkinsci/chucknorris-plugin) - Chuck Norris plugin for Jenkins
 - ⭐3 [leynebe/bobross-plugin](https://github.com/leynebe/bobross-plugin) - Jenkins Bob Ross plugin
 
 # JavaScript
 
-- ⭐150803 [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- ⭐127136 [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- ⭐102625 [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- ⭐96943 [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- ⭐92532 [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- ⭐85231 [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
-- ⭐81537 [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
-- ⭐78343 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-- ⭐72628 [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
-- ⭐63268 [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
-- ⭐61993 [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
-- ⭐53332 [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- ⭐45032 [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
-- ⭐43141 [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
-- ⭐41267 [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
+- ⭐150864 [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- ⭐127160 [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+- ⭐102739 [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- ⭐96960 [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
+- ⭐92592 [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- ⭐85263 [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+- ⭐81560 [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2022)
+- ⭐78397 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- ⭐72674 [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+- ⭐63290 [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
+- ⭐62003 [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+- ⭐53337 [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+- ⭐45040 [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
+- ⭐43147 [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- ⭐41281 [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - ⭐34372 [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
-- ⭐33688 [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
-- ⭐31880 [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
-- ⭐29448 [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
-- ⭐27618 [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- ⭐27451 [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-- ⭐25342 [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
-- ⭐23517 [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
-- ⭐21897 [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-- ⭐21487 [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
-- ⭐21393 [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
-- ⭐20822 [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
-- ⭐20614 [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-- ⭐19894 [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- ⭐19764 [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
-- ⭐19439 [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
-- ⭐18193 [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
-- ⭐15254 [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
-- ⭐14757 [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
-- ⭐14464 [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
-- ⭐14013 [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
-- ⭐13468 [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
-- ⭐12939 [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
-- ⭐12754 [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- ⭐33690 [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
+- ⭐31891 [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - ⭐️  Companies that don't have a broken hiring process
+- ⭐29449 [vuejs/vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ webpack-based tooling for Vue.js Development
+- ⭐27632 [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- ⭐27457 [naptha/tesseract.js](https://github.com/naptha/tesseract.js) - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+- ⭐25345 [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
+- ⭐23519 [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
+- ⭐21906 [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
+- ⭐21490 [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+- ⭐21402 [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
+- ⭐20826 [discordjs/discord.js](https://github.com/discordjs/discord.js) - A powerful JavaScript library for interacting with the Discord API
+- ⭐20615 [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+- ⭐19896 [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- ⭐19763 [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- ⭐19441 [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
+- ⭐18197 [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- ⭐15262 [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
+- ⭐14763 [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
+- ⭐14463 [frappe/charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+- ⭐14014 [substack/stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
+- ⭐13470 [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
+- ⭐12940 [NodeBB/NodeBB](https://github.com/NodeBB/NodeBB) - Node.js based forum software built for the modern web
+- ⭐12758 [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2600 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - ⭐10624 [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- ⭐10516 [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.  
-- ⭐9800 [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
-- ⭐9544 [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
-- ⭐9097 [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
-- ⭐7818 [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML
-- ⭐7123 [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
-- ⭐6899 [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- ⭐6755 [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
-- ⭐5204 [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
+- ⭐10520 [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.  
+- ⭐9804 [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
+- ⭐9548 [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
+- ⭐9103 [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file
+- ⭐7824 [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML
+- ⭐7127 [seanprashad/leetcode-patterns](https://github.com/seanprashad/leetcode-patterns) - A pattern-based approach for learning technical interview questions
+- ⭐6901 [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
+- ⭐6753 [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
+- ⭐5207 [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
 - ⭐5020 [heelhook/chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
-- ⭐4975 [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
+- ⭐4978 [manojVivek/medium-unlimited](https://github.com/manojVivek/medium-unlimited) - A browser extension to read medium.com articles for free without membership.
 - ⭐4320 [Yomguithereal/react-blessed](https://github.com/Yomguithereal/react-blessed) - A react renderer for blessed.
-- ⭐4077 [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
+- ⭐4083 [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars) - Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette.
 - ⭐3666 [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - ⭐3356 [skygragon/leetcode-cli](https://github.com/skygragon/leetcode-cli) - A cli tool to enjoy leetcode!
-- ⭐3153 [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
-- ⭐3020 [farzher/fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.
+- ⭐3154 [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
+- ⭐3021 [farzher/fuzzysort](https://github.com/farzher/fuzzysort) - Fast SublimeText-like fuzzy search for JavaScript.
 - ⭐2785 [Externalizable/bongo.cat](https://github.com/Externalizable/bongo.cat) - Hit the bongos like Bongo Cat!
-- ⭐2623 [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
+- ⭐2622 [ondras/wwwsqldesigner](https://github.com/ondras/wwwsqldesigner) - WWW SQL Designer, your online SQL diagramming tool
 - ⭐2520 [localtunnel/server](https://github.com/localtunnel/server) - server for localtunnel.me
 - ⭐2384 [saharmor/dalle-playground](https://github.com/saharmor/dalle-playground) - A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/
-- ⭐2257 [anseki/leader-line](https://github.com/anseki/leader-line) - Draw a leader line in your web page.
+- ⭐2258 [anseki/leader-line](https://github.com/anseki/leader-line) - Draw a leader line in your web page.
 - ⭐1491 [mikeflynn/egg.js](https://github.com/mikeflynn/egg.js) - A simple javascript library to add easter eggs to web pages.
 - ⭐1471 [IonicaBizau/image-to-ascii](https://github.com/IonicaBizau/image-to-ascii) - :floppy_disk: A Node.js module that converts images to ASCII art.
 - ⭐1427 [jsdoc2md/jsdoc-to-markdown](https://github.com/jsdoc2md/jsdoc-to-markdown) - Generate markdown documentation from jsdoc-annotated javascript
@@ -272,37 +272,37 @@
 - ⭐1268 [calzoneman/sync](https://github.com/calzoneman/sync) - Node.JS Server and JavaScript/HTML Client for synchronizing online media
 - ⭐1161 [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - ⭐1153 [e1ven/Robohash](https://github.com/e1ven/Robohash) - RoboHash.org
-- ⭐1110 [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
-- ⭐980 [odota/web](https://github.com/odota/web) - React web interface for the OpenDota platform
+- ⭐1112 [apvarun/toastify-js](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages
+- ⭐981 [odota/web](https://github.com/odota/web) - React web interface for the OpenDota platform
 - ⭐965 [sagarkarira/coronavirus-tracker-cli](https://github.com/sagarkarira/coronavirus-tracker-cli) - Track conronavirus cases from command line. curl https://corona-stats.online/
 - ⭐704 [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates) - A collection of awesome readme templates to display on your github profile.
-- ⭐571 [bundit/kord-app](https://github.com/bundit/kord-app) - Spotify, Soundcloud, and YouTube all in one website!
+- ⭐570 [bundit/kord-app](https://github.com/bundit/kord-app) - Spotify, Soundcloud, and YouTube all in one website!
 - ⭐504 [chalda/DiscordBot](https://github.com/chalda/DiscordBot) - A chat bot for discord app based off discord.js
 - ⭐445 [lokesh-coder/blobs.app](https://github.com/lokesh-coder/blobs.app) - Blob shapes generator
-- ⭐421 [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container!
+- ⭐423 [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container!
 - ⭐419 [typesense/showcase-recipe-search](https://github.com/typesense/showcase-recipe-search) - Instantly search 2M cooking recipes using Typesense Search (an open source alternative to Algolia / ElasticSearch)  ⚡ 🥘 🔍
 - ⭐251 [sean-public/RecipeFilter](https://github.com/sean-public/RecipeFilter) - Chrome extension that focuses recipes front and center on food blogs
 - ⭐170 [johntitus/bungholio](https://github.com/johntitus/bungholio) - Get text alerts when products become available on Amazon.
 
 # Jupyter Notebook
 
-- ⭐21923 [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- ⭐19158 [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
-- ⭐12681 [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation 
+- ⭐22282 [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+- ⭐19160 [norvig/pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills.
+- ⭐12685 [AliaksandrSiarohin/first-order-model](https://github.com/AliaksandrSiarohin/first-order-model) - This repository contains the source code for the paper First Order Motion Model for Image Animation 
 - ⭐1210 [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - A curated list of open technology projects to sustain a stable climate, energy supply, and natural resources. 
-- ⭐754 [snap-research/articulated-animation](https://github.com/snap-research/articulated-animation) - Code for Motion Representations for Articulated Animation paper
+- ⭐757 [snap-research/articulated-animation](https://github.com/snap-research/articulated-animation) - Code for Motion Representations for Articulated Animation paper
 - ⭐704 [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
-- ⭐645 [deanwampler/JustEnoughScalaForSpark](https://github.com/deanwampler/JustEnoughScalaForSpark) - A tutorial on the most important features and idioms of Scala that you need to use Spark's Scala APIs.
+- ⭐646 [deanwampler/JustEnoughScalaForSpark](https://github.com/deanwampler/JustEnoughScalaForSpark) - A tutorial on the most important features and idioms of Scala that you need to use Spark's Scala APIs.
 - ⭐511 [Glorf/recipenlg](https://github.com/Glorf/recipenlg) - Set of scripts and notebooks used to produce results visible in RecipeNLG paper
 
 # Lua
 
-- ⭐1263 [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
+- ⭐1264 [a327ex/BYTEPATH](https://github.com/a327ex/BYTEPATH) - A replayable arcade shooter with a focus on build theorycrafting.
 - ⭐246 [swxy/NoPixelServer](https://github.com/swxy/NoPixelServer) - NoPixel Full Server Files working 
 
 # Makefile
 
-- ⭐34485 [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- ⭐34509 [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - ⭐2679 [json-schema-org/json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema I-D sources
 - ⭐1829 [buildroot/buildroot](https://github.com/buildroot/buildroot) - Buildroot, making embedded Linux easy. Note that this is not the official repository, but only a mirror. The official Git repository is at http://git.buildroot.net/buildroot/. Do not open issues or file pull requests here.
 - ⭐945 [susam/gitpr](https://github.com/susam/gitpr) - Quick reference guide on fork and pull request workflow
@@ -313,16 +313,16 @@
 
 # OCaml
 
-- ⭐3830 [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
+- ⭐3831 [janestreet/magic-trace](https://github.com/janestreet/magic-trace) - magic-trace collects and displays high-resolution traces of what a process is doing
 
 # Open Policy Agent
 
-- ⭐7872 [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
+- ⭐7878 [opencv/cvat](https://github.com/opencv/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 
 # PHP
 
-- ⭐8793 [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-- ⭐1572 [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
+- ⭐8823 [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+- ⭐1573 [pi-hole/AdminLTE](https://github.com/pi-hole/AdminLTE) - Pi-hole Dashboard for stats and more
 
 # PLpgSQL
 
@@ -335,102 +335,102 @@
 
 # Python
 
-- ⭐196398 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- ⭐143772 [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- ⭐113416 [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- ⭐73299 [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- ⭐66257 [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- ⭐60520 [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- ⭐59202 [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-- ⭐49408 [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- ⭐40994 [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-- ⭐39602 [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- ⭐36500 [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- ⭐35847 [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
-- ⭐35379 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- ⭐35187 [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- ⭐35040 [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
-- ⭐27436 [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- ⭐26135 [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
-- ⭐25858 [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
-- ⭐23642 [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- ⭐22998 [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-- ⭐22908 [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
-- ⭐21733 [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
-- ⭐20215 [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- ⭐19729 [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
-- ⭐19436 [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- ⭐17967 [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
-- ⭐16654 [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- ⭐16510 [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
-- ⭐16454 [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
-- ⭐15962 [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
-- ⭐15170 [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- ⭐15117 [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- ⭐15066 [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
-- ⭐14121 [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
-- ⭐13776 [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- ⭐13772 [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- ⭐13625 [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
-- ⭐12864 [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
-- ⭐12818 [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
-- ⭐12798 [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
+- ⭐196540 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- ⭐143996 [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- ⭐113445 [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- ⭐73310 [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- ⭐66279 [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- ⭐60534 [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
+- ⭐59234 [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- ⭐49449 [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- ⭐41020 [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- ⭐39623 [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
+- ⭐36517 [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- ⭐35854 [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- ⭐35385 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- ⭐35196 [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- ⭐35047 [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- ⭐27445 [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- ⭐26139 [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
+- ⭐25870 [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
+- ⭐23668 [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- ⭐23000 [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- ⭐22913 [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
+- ⭐21749 [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- ⭐20227 [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- ⭐19738 [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+- ⭐19438 [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- ⭐17978 [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
+- ⭐16655 [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
+- ⭐16519 [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- ⭐16458 [sanic-org/sanic](https://github.com/sanic-org/sanic) - Next generation Python web server/framework | Build fast. Run fast.
+- ⭐15963 [spotify/luigi](https://github.com/spotify/luigi) - Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. 
+- ⭐15212 [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
+- ⭐15123 [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
+- ⭐15068 [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
+- ⭐14120 [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- ⭐13779 [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
+- ⭐13777 [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
+- ⭐13628 [fabric/fabric](https://github.com/fabric/fabric) - Simple, Pythonic remote execution and deployment.
+- ⭐12870 [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
+- ⭐12821 [aio-libs/aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python
+- ⭐12809 [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini) - DALL·E Mini - Generate images from a text prompt
 - ⭐11465 [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-- ⭐11046 [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
-- ⭐10743 [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- ⭐11051 [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- ⭐10747 [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
 - ⭐10627 [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
-- ⭐10447 [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-- ⭐10291 [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- ⭐10047 [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
-- ⭐9810 [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
-- ⭐9599 [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
-- ⭐9580 [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
-- ⭐9213 [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- ⭐8802 [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
-- ⭐8484 [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
-- ⭐8401 [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
-- ⭐7539 [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
-- ⭐7374 [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
-- ⭐7341 [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
-- ⭐7137 [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
-- ⭐6835 [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
-- ⭐6437 [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
-- ⭐6316 [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
+- ⭐10461 [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+- ⭐10294 [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+- ⭐10054 [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- ⭐9817 [tiangolo/full-stack-fastapi-postgresql](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.
+- ⭐9609 [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- ⭐9583 [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
+- ⭐9221 [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
+- ⭐8805 [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
+- ⭐8489 [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- ⭐8406 [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- ⭐7542 [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- ⭐7381 [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- ⭐7347 [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet) - Python Cheat Sheet
+- ⭐7141 [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) - Always know what to expect from your data.
+- ⭐6841 [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- ⭐6438 [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- ⭐6319 [rossant/awesome-math](https://github.com/rossant/awesome-math) - A curated list of awesome mathematics resources
 - ⭐6309 [robinhood/faust](https://github.com/robinhood/faust) - Python Stream Processing
-- ⭐5897 [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
-- ⭐5540 [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
-- ⭐5478 [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
-- ⭐5405 [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
-- ⭐5287 [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
+- ⭐5898 [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
+- ⭐5545 [mikf/gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites
+- ⭐5479 [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+- ⭐5416 [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+- ⭐5289 [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - ⭐5005 [navdeep-G/setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
-- ⭐4958 [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
-- ⭐4771 [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
-- ⭐4733 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
-- ⭐4419 [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
+- ⭐4962 [dpkp/kafka-python](https://github.com/dpkp/kafka-python) - Python client for Apache Kafka
+- ⭐4780 [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
+- ⭐4735 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
+- ⭐4420 [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - ⭐3996 [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
-- ⭐3967 [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
-- ⭐3829 [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
+- ⭐3970 [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
+- ⭐3830 [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
 - ⭐3683 [pyinvoke/invoke](https://github.com/pyinvoke/invoke) - Pythonic task management & command execution.
 - ⭐3602 [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
-- ⭐3517 [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
-- ⭐3516 [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
+- ⭐3521 [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
+- ⭐3516 [amundsen-io/amundsen](https://github.com/amundsen-io/amundsen) - Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - ⭐3196 [databricks/koalas](https://github.com/databricks/koalas) - Koalas: pandas API on Apache Spark
-- ⭐3178 [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
-- ⭐2981 [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
-- ⭐2924 [prometheus/client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
+- ⭐3179 [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
+- ⭐2982 [tox-dev/tox](https://github.com/tox-dev/tox) - Command line driven CI frontend and development task automation tool.
+- ⭐2925 [prometheus/client_python](https://github.com/prometheus/client_python) - Prometheus instrumentation library for Python applications
 - ⭐2924 [confluentinc/confluent-kafka-python](https://github.com/confluentinc/confluent-kafka-python) - Confluent's Kafka Python Client
-- ⭐2768 [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
-- ⭐2708 [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
-- ⭐2693 [weskerfoot/DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
+- ⭐2769 [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
+- ⭐2709 [blackjack4494/yt-dlc](https://github.com/blackjack4494/yt-dlc) - media downloader and library for various sites.
+- ⭐2692 [weskerfoot/DeleteFB](https://github.com/weskerfoot/DeleteFB) - Automate Scrubbing your Facebook Presence
 - ⭐2646 [keleshev/schema](https://github.com/keleshev/schema) - Schema validation just got Pythonic
-- ⭐2493 [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
-- ⭐2335 [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
-- ⭐1814 [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
+- ⭐2495 [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
+- ⭐2337 [neuralchen/SimSwap](https://github.com/neuralchen/SimSwap) - An arbitrary face-swapping framework on images and videos with one single trained model!
+- ⭐1816 [wooey/Wooey](https://github.com/wooey/Wooey) - A Django app that creates automatic web UIs for Python scripts.
 - ⭐1735 [unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators) - Members of the United States Congress, 1789-Present, in YAML/JSON/CSV, as well as committees, presidents, and vice presidents.
 - ⭐1634 [unionai-oss/pandera](https://github.com/unionai-oss/pandera) - A light-weight, flexible, and expressive statistical data testing library
 - ⭐1559 [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
-- ⭐1540 [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
-- ⭐1384 [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
+- ⭐1541 [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
+- ⭐1385 [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman) - Barman - Backup and Recovery Manager for PostgreSQL
 - ⭐1180 [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
 - ⭐1088 [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - ⭐1085 [EricJMarti/inventory-hunter](https://github.com/EricJMarti/inventory-hunter) - ⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock
@@ -439,9 +439,9 @@
 - ⭐982 [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - ⭐950 [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
 - ⭐778 [unitedstates/congress](https://github.com/unitedstates/congress) - Public domain data collectors for the work of Congress, including legislation, amendments, and votes.
-- ⭐748 [ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py) - Bringing the hell of pointers to Python.
+- ⭐749 [ZeroIntensity/pointers.py](https://github.com/ZeroIntensity/pointers.py) - Bringing the hell of pointers to Python.
 - ⭐747 [DMOJ/judge-server](https://github.com/DMOJ/judge-server) - Judging backend server for the DMOJ online judge.
-- ⭐668 [cloudera/hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
+- ⭐671 [cloudera/hue](https://github.com/cloudera/hue) - Open source SQL Query Assistant service for Databases/Warehouses
 - ⭐617 [DMOJ/online-judge](https://github.com/DMOJ/online-judge) - A modern open-source online judge and contest platform system.
 - ⭐577 [ljeng/cheat-sheet](https://github.com/ljeng/cheat-sheet) - Data structures & algorithms cheat sheet
 - ⭐551 [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project.
@@ -451,9 +451,9 @@
 - ⭐438 [alexellis/growlab](https://github.com/alexellis/growlab) - A global contest to grow and monitor your own food with Raspberry Pi
 - ⭐397 [awslabs/python-deequ](https://github.com/awslabs/python-deequ) - Python API for Deequ
 - ⭐334 [govtrack/govtrack.us-web](https://github.com/govtrack/govtrack.us-web) - The Django source code for the GovTrack.us website.
-- ⭐331 [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - A series of 3 programs that will automatically receive scripts from Reddit, allow the user to edit them, then be sent off to a video generator where they will be uploaded to YouTube automatically.
+- ⭐332 [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - A series of 3 programs that will automatically receive scripts from Reddit, allow the user to edit them, then be sent off to a video generator where they will be uploaded to YouTube automatically.
 - ⭐310 [byroot/pysrt](https://github.com/byroot/pysrt) - Python parser for SubRip (srt) files
-- ⭐214 [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match
+- ⭐215 [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match
 - ⭐207 [lgienapp/aquarel](https://github.com/lgienapp/aquarel) - Styling matplotlib made easy
 - ⭐195 [hulu/restfulgit](https://github.com/hulu/restfulgit) - REST API for Git data 
 - ⭐14 [GoogleCloudPlatform/oracle-to-postgres](https://github.com/GoogleCloudPlatform/oracle-to-postgres)
@@ -462,55 +462,55 @@
 
 # R
 
-- ⭐3667 [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
+- ⭐3669 [rmcelreath/stat_rethinking_2022](https://github.com/rmcelreath/stat_rethinking_2022) - Statistical Rethinking course winter 2022
 - ⭐1726 [zonination/investing](https://github.com/zonination/investing) - Investing Returns on the Market as a Whole
 - ⭐531 [matloff/fasteR](https://github.com/matloff/fasteR) - Fast Lane to Learning R!
 - ⭐6 [hxu296/g-index](https://github.com/hxu296/g-index) - We propose g-index (GitHub-Based University Ranking) to rank US universities according to their open source contributions.
 
 # Ruby
 
-- ⭐22129 [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
-- ⭐5177 [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+- ⭐22138 [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+- ⭐5178 [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 
 # Rust
 
-- ⭐50072 [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- ⭐29271 [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
-- ⭐12488 [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
-- ⭐9573 [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
-- ⭐4993 [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-- ⭐4852 [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- ⭐4400 [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
-- ⭐2604 [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
-- ⭐1748 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
+- ⭐50129 [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- ⭐29288 [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- ⭐12489 [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
+- ⭐9577 [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- ⭐4998 [prql/prql](https://github.com/prql/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+- ⭐4855 [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- ⭐4404 [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date.
+- ⭐2605 [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
+- ⭐1750 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
 
 # SCSS
 
-- ⭐18937 [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
-- ⭐12604 [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
+- ⭐18940 [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+- ⭐12606 [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - ⭐1161 [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market. 
 
 # SVG
 
-- ⭐4130 [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
+- ⭐4133 [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners) - A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
 
 # Scala
 
-- ⭐33861 [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
-- ⭐5214 [delta-io/delta](https://github.com/delta-io/delta) - This connector allows Apache Spark™ to read from and write to Delta Lake.
-- ⭐2434 [awslabs/deequ](https://github.com/awslabs/deequ) - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+- ⭐33869 [apache/spark](https://github.com/apache/spark) - Apache Spark - A unified analytics engine for large-scale data processing
+- ⭐5216 [delta-io/delta](https://github.com/delta-io/delta) - This connector allows Apache Spark™ to read from and write to Delta Lake.
+- ⭐2435 [awslabs/deequ](https://github.com/awslabs/deequ) - Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
 # Shell
 
-- ⭐68945 [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-- ⭐64295 [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- ⭐60852 [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- ⭐38626 [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
-- ⭐32469 [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- ⭐31781 [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- ⭐31038 [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- ⭐23855 [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- ⭐16147 [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- ⭐69008 [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+- ⭐64322 [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- ⭐60870 [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+- ⭐38632 [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
+- ⭐32476 [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- ⭐31792 [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- ⭐31057 [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+- ⭐23871 [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+- ⭐16154 [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - ⭐9545 [RetroPie/RetroPie-Setup](https://github.com/RetroPie/RetroPie-Setup) - Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores
 - ⭐1038 [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - ⭐633 [OpenMediaVault-Plugin-Developers/installScript](https://github.com/OpenMediaVault-Plugin-Developers/installScript) - script that installs omv-extras and openmediavault if not installed already.
@@ -520,48 +520,48 @@
 
 # Svelte
 
-- ⭐14222 [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
+- ⭐14245 [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - ⭐146 [gereleth/hexapipes](https://github.com/gereleth/hexapipes) - Hexagonal pipes puzzles
 
 # Swift
 
-- ⭐5357 [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
+- ⭐5358 [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 
 # Txt
 
-- ⭐263927 [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-- ⭐248452 [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-- ⭐232377 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-- ⭐219246 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- ⭐165045 [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- ⭐158989 [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- ⭐123748 [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
-- ⭐55804 [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- ⭐51109 [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
-- ⭐47627 [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
-- ⭐40086 [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- ⭐36815 [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
-- ⭐33522 [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- ⭐24076 [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- ⭐20809 [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- ⭐10737 [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
-- ⭐10380 [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
-- ⭐9183 [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-- ⭐9082 [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
-- ⭐8899 [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
-- ⭐7406 [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
-- ⭐7214 [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
-- ⭐6840 [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
-- ⭐6158 [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
+- ⭐263943 [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- ⭐248684 [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- ⭐232573 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+- ⭐219372 [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- ⭐165144 [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- ⭐159015 [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- ⭐123806 [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- ⭐55838 [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- ⭐51113 [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
+- ⭐47645 [lydiahallie/javascript-questions](https://github.com/lydiahallie/javascript-questions) - A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
+- ⭐40110 [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- ⭐36830 [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
+- ⭐33536 [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
+- ⭐24084 [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
+- ⭐20814 [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- ⭐10741 [andkret/Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook
+- ⭐10389 [blaCCkHatHacEEkr/PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) - Learn ethical hacking.Learn about reconnaissance,windows/linux hacking,attacking web technologies,and pen testing wireless networks.Resources for learning malware analysis and reverse engineering.
+- ⭐9184 [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
+- ⭐9089 [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022
+- ⭐8900 [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
+- ⭐7410 [sw-yx/spark-joy](https://github.com/sw-yx/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
+- ⭐7220 [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
+- ⭐6844 [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books) - A comprehensive list of books on Software Architecture.
+- ⭐6159 [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - ⭐5753 [cxxr/better-java](https://github.com/cxxr/better-java) - Resources for writing modern Java
 - ⭐5027 [fpereiro/backendlore](https://github.com/fpereiro/backendlore) - How I write backends
-- ⭐4875 [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- ⭐4781 [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
-- ⭐4643 [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
-- ⭐1345 [resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms) - Advanced data structure and algorithm for system design，系统设计需要了解的算法
+- ⭐4874 [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
+- ⭐4783 [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview 💯
+- ⭐4645 [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- ⭐1347 [resumejob/system-design-algorithms](https://github.com/resumejob/system-design-algorithms) - Advanced data structure and algorithm for system design，系统设计需要了解的算法
 - ⭐980 [ninjaaron/replacing-bash-scripting-with-python](https://github.com/ninjaaron/replacing-bash-scripting-with-python) - Guide on using using python for administrative scripting
 - ⭐706 [jamesls/fakeredis](https://github.com/jamesls/fakeredis) - Fake implementation of redis API (redis-py) for testing purposes
-- ⭐531 [ankurchavda/SparkLearning](https://github.com/ankurchavda/SparkLearning) - A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher.
+- ⭐532 [ankurchavda/SparkLearning](https://github.com/ankurchavda/SparkLearning) - A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher.
 - ⭐457 [mgyong/awesome-mediapipe](https://github.com/mgyong/awesome-mediapipe) - A curated list of awesome MediaPipe related code examples, libraries and software
 - ⭐432 [sixhobbits/technical-writing](https://github.com/sixhobbits/technical-writing) - A collection of materials relating to technical writing
 - ⭐381 [matloff/R-vs.-Python-for-Data-Science](https://github.com/matloff/R-vs.-Python-for-Data-Science)
@@ -570,46 +570,46 @@
 
 # TypeScript
 
-- ⭐136511 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- ⭐81867 [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- ⭐56643 [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- ⭐50951 [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- ⭐50668 [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- ⭐48075 [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- ⭐47375 [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- ⭐40755 [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- ⭐38731 [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- ⭐37918 [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- ⭐29873 [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
-- ⭐27950 [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-- ⭐26689 [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
-- ⭐25513 [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
-- ⭐25048 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- ⭐21242 [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
-- ⭐19569 [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
-- ⭐19095 [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
-- ⭐18473 [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- ⭐13966 [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- ⭐13868 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
-- ⭐12675 [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
-- ⭐9381 [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
-- ⭐9124 [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
+- ⭐136562 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- ⭐81877 [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- ⭐56645 [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
+- ⭐50969 [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- ⭐50693 [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- ⭐48090 [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- ⭐47418 [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- ⭐40766 [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- ⭐38798 [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- ⭐37947 [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- ⭐29895 [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.
+- ⭐27961 [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- ⭐26688 [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
+- ⭐25536 [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
+- ⭐25232 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- ⭐21251 [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web.
+- ⭐19614 [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- ⭐19099 [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+- ⭐18479 [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
+- ⭐13974 [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+- ⭐13881 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
+- ⭐12729 [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. 
+- ⭐9386 [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
+- ⭐9127 [ag-grid/ag-grid](https://github.com/ag-grid/ag-grid) - The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.
 - ⭐7500 [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
-- ⭐7259 [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- ⭐5538 [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
-- ⭐4183 [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
-- ⭐3557 [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
-- ⭐2779 [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - sql.js is a light wrapper around SQLite compiled with EMScripten for use in the browser (client-side).
+- ⭐7288 [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+- ⭐5541 [SoftwareBrothers/adminjs](https://github.com/SoftwareBrothers/adminjs) - AdminJS is an admin panel for apps written in node.js
+- ⭐4195 [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
+- ⭐3571 [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
+- ⭐2783 [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - sql.js is a light wrapper around SQLite compiled with EMScripten for use in the browser (client-side).
 - ⭐2473 [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator) - Simple generator React app for avataaars
-- ⭐2333 [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
+- ⭐2335 [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - 🎥 full-featured wrapper around YouTube's private API — reverse engineering InnerTube
 - ⭐1275 [nwtgck/gh-card](https://github.com/nwtgck/gh-card) - :octocat: GitHub Repository Card for Any Web Site
 - ⭐161 [emeraldpay/hashicon](https://github.com/emeraldpay/hashicon) - Generates a beautiful representation of any hash.
 
 # Vim Script
 
-- ⭐57629 [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- ⭐29065 [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- ⭐57656 [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- ⭐29080 [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
 # Vue
 
-- ⭐78432 [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+- ⭐78455 [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
