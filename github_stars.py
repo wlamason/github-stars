@@ -106,7 +106,7 @@ def index_starred_repos(repos: List[Repo]) -> Tuple[Dict[str, Repo], Dict[str, R
 
     # Create datastructures from retrieved repo data
     repo_name_to_repo = {}
-    language_to_repos = defaultdict(list)
+    language_to_repos: defaultdict[str, list] = defaultdict(list)
     for repo in repos:
         repo_name_to_repo[repo["repo_name"]] = repo
         language = repo["language"] if repo["language"] is not None else "Txt"

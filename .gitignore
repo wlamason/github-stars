@@ -2,3 +2,4 @@ venv
 *.log
 .vscode
 github_stars.json
+github_stars.egg-info

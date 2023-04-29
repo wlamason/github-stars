@@ -1,5 +1,5 @@
 # github-stars
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wlamason/opendota.js/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/wlamason/github-stars/blob/main/LICENSE)
 
 > ⭐Create a searchable view of your github stars. Runs daily with github actions.
 
@@ -42,7 +42,7 @@ Attributes in `overrides.json`:
 - `hidden_repos`: A list of repos to exclude from output. Format is `<user>/<repo>`.
 - `overrides`: Key value pairs of repo in `<user>/<repo>` format to object. The object contains key value pairs that override the [`Repo` class](https://github.com/wlamason/github-stars/blob/main/github_stars.py#L27-L36) in [`github_stars.py`](https://github.com/wlamason/github-stars/blob/main/github_stars.py).
 
-## Running Yourself
+## Running via Github Actions
 
 This repo was created for personal use. As such, external usage is slightly convoluted. Feel free to raise a github issue if you would like to use this code, and I will make the github action more generic. Otherwise I recommend:
 
@@ -63,6 +63,20 @@ The value of `GIT_TOKEN` should be set to a personal access token. I recommend c
 1. Click Developer settings
 1. Click Personal access tokens
 2. Click Generate new token
+
+## Running Locally
+
+1. `python3 -m venv venv`
+1. `. venv/bin/activate`
+1. `python3 -m pip install -r requirements.txt`
+1. `python3 github_stars.py --help`
+
+## Generating New Requirements Files
+
+1. `. venv/bin/activate`
+1. `python3 -m pip install pip-tools`
+1. `pip-compile -o requirements.txt pyproject.toml`
+1. `pip-compile --extra dev -o dev-requirements.txt pyproject.toml`
 
 ## Author
 
