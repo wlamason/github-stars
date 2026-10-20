@@ -5,9 +5,10 @@ import os
 import sys
 import time
 from collections import defaultdict
+from collections.abc import Iterator
 from contextlib import contextmanager
 from dataclasses import dataclass
-from typing import Dict, List, Set, Tuple, TypedDict, Union
+from typing import TypedDict
 
 from github import Github
 
@@ -29,16 +30,16 @@ class Repo(TypedDict):
     """Github repository details."""
 
     repo_name: str
-    description: str
+    description: str | None
     url: str
-    homepage: str
-    language: str
+    homepage: str | None
+    language: str | None
     open_issues: int
     stars: int
 
 
 @contextmanager
-def time_it(msg: str):
+def time_it(msg: str) -> Iterator[None]:
     start = time.perf_counter_ns()
     try:
         yield
@@ -48,7 +49,7 @@ def time_it(msg: str):
 
 
 def write_md(
-    language_to_repos: Dict[str, Repo], filename: str, hidden_languages: Set[str], hidden_repos: Set[str]
+    language_to_repos: dict[str, list[Repo]], filename: str, hidden_languages: set[str], hidden_repos: set[str]
 ) -> None:
     """Write markdown file showcasing a user's github stars."""
     with open(filename, "w") as f:
@@ -82,32 +83,32 @@ def write_md(
                 f.write(f"- ⭐{repo['stars']} [{repo['repo_name']}]({repo['url']}){description}\n")
 
 
-def update_with_overrides(repo_name_to_repo: Dict[str, Repo], overrides: Dict[str, Repo]) -> None:
+def update_with_overrides(repo_name_to_repo: dict[str, Repo], overrides: dict[str, Repo]) -> None:
     """Update repos with override values."""
     for repo_name in repo_name_to_repo.keys() & overrides.keys():
         repo_name_to_repo[repo_name].update(overrides[repo_name])
 
 
-def get_repo_overrides() -> Dict[str, Union[List[str], Dict[str, Repo]]]:
+def get_repo_overrides() -> dict[str, list[str] | dict[str, Repo]]:
     """Get repo overrides from overrides.json"""
-    with open("overrides.json", "r") as f:
+    with open("overrides.json") as f:
         repo_overrides = json.load(f)
         logger.debug(f"repo_overrides = {repo_overrides}")
         return repo_overrides
 
 
-def write_json(repo_name_to_repo: Dict[str, Repo], json_filename: str) -> None:
+def write_json(repo_name_to_repo: dict[str, Repo], json_filename: str) -> None:
     """Write repo_name_to_repo to file as json."""
     with open(json_filename, "w") as f:
         json.dump(repo_name_to_repo, f, indent=4)
 
 
-def index_starred_repos(repos: List[Repo]) -> Tuple[Dict[str, Repo], Dict[str, Repo]]:
+def index_starred_repos(repos: list[Repo]) -> tuple[dict[str, Repo], dict[str, list[Repo]]]:
     """Index repos by repo name and language."""
 
     # Create datastructures from retrieved repo data
-    repo_name_to_repo = {}
-    language_to_repos: defaultdict[str, list] = defaultdict(list)
+    repo_name_to_repo: dict[str, Repo] = {}
+    language_to_repos: dict[str, list[Repo]] = defaultdict(list)
     for repo in repos:
         repo_name_to_repo[repo["repo_name"]] = repo
         language = repo["language"] if repo["language"] is not None else "Txt"
@@ -122,7 +123,7 @@ def index_starred_repos(repos: List[Repo]) -> Tuple[Dict[str, Repo], Dict[str, R
     return repo_name_to_repo, language_to_repos
 
 
-def get_starred_repos(username: str, g: Github) -> List[Repo]:
+def get_starred_repos(username: str, g: Github) -> list[Repo]:
     """Get starred repos for given username from Github API."""
     with time_it("get_user"):
         user = g.get_user(username)
@@ -133,7 +134,7 @@ def get_starred_repos(username: str, g: Github) -> List[Repo]:
     logger.debug(f"starred_repos = {starred_repos}")
 
     # Retrieve repo data from github api
-    repos: List[Repo] = []
+    repos: list[Repo] = []
     with time_it("enumerate paginated repos"):
         for repo in starred_repos:
             repos.append(
@@ -185,7 +186,7 @@ def main(args: Arguments, g: Github) -> None:
     logger.info(f"wrote markdown file {args.filename}")
 
 
-def config_logger(verbosity: int):
+def config_logger(verbosity: int) -> None:
     """Configure logging script."""
     levels = [logging.WARNING, logging.INFO, logging.DEBUG]
     level = levels[min(verbosity, len(levels) - 1)]  # cap to last level index
