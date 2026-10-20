@@ -44,7 +44,7 @@
 
 - ⭐152586 [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - ⭐77048 [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-- ⭐37478 [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
+- ⭐37479 [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - ⭐35868 [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - ⭐30769 [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - ⭐27464 [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
@@ -156,7 +156,7 @@
 
 # Go
 
-- ⭐139419 [golang/go](https://github.com/golang/go) - The Go programming language
+- ⭐139420 [golang/go](https://github.com/golang/go) - The Go programming language
 - ⭐111550 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - ⭐83685 [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - ⭐78174 [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -170,7 +170,7 @@
 - ⭐53163 [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - ⭐52403 [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - ⭐46441 [milvus-io/milvus](https://github.com/milvus-io/milvus) - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-- ⭐37788 [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- ⭐37789 [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - ⭐33810 [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% | LeetCode 题解
 - ⭐31986 [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - ⭐30685 [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
@@ -194,7 +194,7 @@
 - ⭐10613 [jroimartin/gocui](https://github.com/jroimartin/gocui) - Minimalist Go package aimed at creating Console User Interfaces.
 - ⭐8789 [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - ⭐8148 [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
-- ⭐6311 [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
+- ⭐6312 [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm) - Data-Centric Pipelines and Data Versioning
 - ⭐5823 [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series)
 - ⭐5268 [cube2222/octosql](https://github.com/cube2222/octosql) - OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - ⭐4897 [superfly/litefs](https://github.com/superfly/litefs) - FUSE-based file system for replicating SQLite databases across a cluster of machines
@@ -440,7 +440,7 @@
 - ⭐103268 [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - ⭐97914 [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - ⭐94524 [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
-- ⭐94182 [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
+- ⭐94181 [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - ⭐91530 [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - ⭐81889 [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - ⭐80542 [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
@@ -450,7 +450,7 @@
 - ⭐74465 [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - ⭐69929 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 - ⭐63948 [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-- ⭐61615 [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
+- ⭐61616 [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 - ⭐60203 [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - ⭐58780 [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - ⭐57578 [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -739,7 +739,7 @@
 - ⭐61347 [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - ⭐55258 [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - ⭐52994 [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-- ⭐45278 [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
+- ⭐45279 [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - ⭐45164 [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - ⭐41712 [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - ⭐36464 [open-guides/og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
@@ -810,7 +810,7 @@
 # TypeScript
 
 - ⭐392901 [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-- ⭐339891 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- ⭐339895 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - ⭐254833 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - ⭐208085 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - ⭐194038 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
