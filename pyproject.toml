@@ -73,17 +73,20 @@ dependencies = [
 # Development dependencies. Installed by default with `uv sync`.
 [dependency-groups]
 dev = [
-    "black",
-    "isort"
+    "ruff>=0.17.1",
 ]
 
 # This repository is a script, not an installable package.
 [tool.uv]
 package = false
 
-[tool.black]
+[tool.ruff]
 line-length = 120
-target_version = ['py39']
+target-version = "py39"
 
-[tool.isort]
-profile = "black"
+[tool.ruff.lint]
+# E/F/W: pycodestyle and pyflakes. I: import sorting (ruff's Black-compatible
+# isort defaults, matching the previous `profile = "black"` setup).
+# B: flake8-bugbear. C4: flake8-comprehensions.
+# UP (pyupgrade) is intentionally left off for a later change.
+select = ["E", "F", "W", "I", "B", "C4"]
