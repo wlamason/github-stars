@@ -81,7 +81,7 @@
 # C++
 
 - ⭐131780 [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-- ⭐55470 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+- ⭐55471 [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - ⭐54500 [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - ⭐50494 [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - ⭐45393 [grpc/grpc](https://github.com/grpc/grpc) - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
@@ -290,7 +290,7 @@
 
 - ⭐196687 [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - ⭐148059 [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- ⭐143103 [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
+- ⭐143104 [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - ⭐116650 [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - ⭐103232 [react/create-react-app](https://github.com/react/create-react-app) - Set up a modern web app by running one command.
 - ⭐94727 [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
@@ -430,12 +430,12 @@
 - ⭐374848 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - ⭐225418 [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - ⭐187668 [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- ⭐183223 [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+- ⭐183224 [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - ⭐167893 [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
 - ⭐165085 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - ⭐148120 [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - ⭐141346 [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- ⭐140224 [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+- ⭐140225 [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - ⭐104937 [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - ⭐103270 [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - ⭐97914 [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -601,7 +601,7 @@
 - ⭐1847 [dhaitz/mplcyberpunk](https://github.com/dhaitz/mplcyberpunk) - "Cyberpunk style" for matplotlib plots
 - ⭐1766 [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - ⭐1730 [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
-- ⭐1702 [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
+- ⭐1703 [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
 - ⭐1648 [gothinkster/django-realworld-example-app](https://github.com/gothinkster/django-realworld-example-app)
 - ⭐1611 [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
 - ⭐1590 [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
@@ -671,7 +671,7 @@
 - ⭐44892 [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - ⭐44803 [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - ⭐40127 [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
-- ⭐38155 [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
+- ⭐38156 [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - ⭐37495 [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
 - ⭐36357 [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - ⭐35776 [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -810,7 +810,7 @@
 # TypeScript
 
 - ⭐392930 [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-- ⭐341707 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- ⭐341712 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - ⭐255062 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - ⭐208108 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - ⭐194033 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
