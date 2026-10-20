@@ -89,8 +89,8 @@ target-version = "py315"
 # E/F/W: pycodestyle and pyflakes. I: import sorting (ruff's Black-compatible
 # isort defaults, matching the previous `profile = "black"` setup).
 # B: flake8-bugbear. C4: flake8-comprehensions.
-# UP (pyupgrade) is intentionally left off for a later change.
-select = ["E", "F", "W", "I", "B", "C4"]
+# UP: pyupgrade, rewritten for target-version py315 (builtin generics, PEP 604 unions).
+select = ["E", "F", "W", "I", "B", "C4", "UP"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
