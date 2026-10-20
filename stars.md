@@ -90,7 +90,7 @@
 - ⭐33927 [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - ⭐32211 [facebook/rocksdb](https://github.com/facebook/rocksdb) - A library that provides an embeddable, persistent key-value store for fast storage.
 - ⭐31799 [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- ⭐31582 [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+- ⭐31583 [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
 - ⭐29324 [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - ⭐28423 [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - ⭐24715 [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: 
@@ -156,7 +156,7 @@
 
 # Go
 
-- ⭐139417 [golang/go](https://github.com/golang/go) - The Go programming language
+- ⭐139418 [golang/go](https://github.com/golang/go) - The Go programming language
 - ⭐111550 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - ⭐83683 [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - ⭐78174 [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -809,9 +809,9 @@
 
 # TypeScript
 
-- ⭐392900 [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-- ⭐339823 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- ⭐254824 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+- ⭐392901 [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
+- ⭐339827 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- ⭐254827 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - ⭐208084 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - ⭐194038 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - ⭐143078 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
@@ -825,7 +825,7 @@
 - ⭐83414 [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - ⭐77397 [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - ⭐76868 [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- ⭐67874 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- ⭐67875 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - ⭐67550 [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - ⭐66534 [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - ⭐65397 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
