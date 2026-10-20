@@ -2,6 +2,7 @@ import argparse
 import json
 import logging
 import os
+import sys
 import time
 from collections import defaultdict
 from contextlib import contextmanager
@@ -202,7 +203,7 @@ def config_logger(verbosity: int):
     root_logger.addHandler(console_handler)
 
 
-def parse_args() -> Arguments:
+def parse_args(argv: list[str]) -> Arguments:
     """Parse CLI arguments."""
     parser = argparse.ArgumentParser(description="Create markdown file showcasing a user's github stars.")
     parser.add_argument("-v", "--verbose", action="count", default=0)
@@ -210,12 +211,12 @@ def parse_args() -> Arguments:
     parser.add_argument("-j", "--json", action="store_true", help="Write json file with starred repo data.")
     parser.add_argument("-jf", "--json-filename", default="github_stars.json", help="Output json filename.")
     parser.add_argument("username", help="User to extract stars from.")
-    args = parser.parse_args()
+    args = parser.parse_args(argv)
     return Arguments(args.verbose, args.filename, args.json, args.json_filename, args.username)
 
 
 if __name__ == "__main__":
-    args = parse_args()
+    args = parse_args(sys.argv[1:])
     config_logger(args.verbose)
     g = Github(os.environ.get("GIT_TOKEN", ""))
     main(args, g)
