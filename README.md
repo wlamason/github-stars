@@ -8,13 +8,13 @@
 ## Basic Usage
 
 ```
-python3 github_stars.py
+uv run python github_stars.py
 ```
 
 ## Additional Options
 
 ```
-python3 github_stars.py --help
+uv run python github_stars.py --help
 usage: github_stars.py [-h] [-v] [-f FILENAME] [-j] [-jf JSON_FILENAME] username
 
 Create markdown file showcasing a user's github stars.
@@ -66,17 +66,17 @@ The value of `GIT_TOKEN` should be set to a personal access token. I recommend c
 
 ## Running Locally
 
-1. `python3 -m venv venv`
-1. `. venv/bin/activate`
-1. `python3 -m pip install -r requirements.txt`
-1. `python3 github_stars.py --help`
+1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
+1. `uv sync`
+1. `uv run python github_stars.py --help`
 
-## Generating New Requirements Files
+## Updating Dependencies
 
-1. `. venv/bin/activate`
-1. `python3 -m pip install pip-tools`
-1. `pip-compile -o requirements.txt pyproject.toml`
-1. `pip-compile --extra dev -o dev-requirements.txt pyproject.toml`
+Runtime dependencies live in `pyproject.toml` under `[project] dependencies`. Development dependencies live in the `dev` dependency group. Exact versions are pinned in `uv.lock`.
+
+1. `uv lock` after editing dependencies in `pyproject.toml`
+1. `uv lock --upgrade` to upgrade pinned versions
+1. `uv sync` to install the updated lockfile
 
 ## Author
 

@@ -70,19 +70,16 @@ dependencies = [
     "PyGithub"
 ]
 
-# List additional groups of dependencies here (e.g. development
-# dependencies). Users will be able to install these using the "extras"
-# syntax, for example:
-#
-#   $ pip install sampleproject[dev]
-#
-# Similar to `dependencies` above, these must be valid existing
-# projects.
-[project.optional-dependencies]
+# Development dependencies. Installed by default with `uv sync`.
+[dependency-groups]
 dev = [
     "black",
     "isort"
 ]
+
+# This repository is a script, not an installable package.
+[tool.uv]
+package = false
 
 [tool.black]
 line-length = 120

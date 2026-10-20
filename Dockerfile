@@ -1,5 +1,9 @@
 FROM python:3.10.2-slim
+COPY --from=ghcr.io/astral-sh/uv:0.13.3 /uv /uvx /bin/
+# Use the interpreter in this image (Python 3.10.2) rather than downloading another.
+ENV UV_PYTHON_DOWNLOADS=never
+ENV UV_PYTHON_PREFERENCE=only-system
 COPY . /src
 WORKDIR /src
-RUN pip3 install -r requirements.txt
-CMD ["python3", "github_stars.py", "--help"]
+RUN uv sync --locked --no-dev
+CMD ["uv", "run", "--locked", "--no-dev", "python", "github_stars.py", "--help"]
