@@ -80,6 +80,12 @@ End-to-end tests live in [`tests/test_github_stars.py`](tests/test_github_stars.
 uv run pytest
 ```
 
+Type-check `github_stars.py` and `tests/` with [ty](https://docs.astral.sh/ty/):
+
+```
+uv run ty check
+```
+
 ## Updating Dependencies
 
 Runtime dependencies live in `pyproject.toml` under `[project] dependencies`. Development dependencies live in the `dev` dependency group. Exact versions are pinned in `uv.lock`.
