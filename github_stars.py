@@ -121,10 +121,8 @@ def index_starred_repos(repos: List[Repo]) -> Tuple[Dict[str, Repo], Dict[str, R
     return repo_name_to_repo, language_to_repos
 
 
-def get_starred_repos(username: str) -> List[Repo]:
+def get_starred_repos(username: str, g: Github) -> List[Repo]:
     """Get starred repos for given username from Github API."""
-    g = Github(os.environ.get("GIT_TOKEN", ""))
-
     with time_it("get_user"):
         user = g.get_user(username)
 
@@ -155,9 +153,9 @@ def get_starred_repos(username: str) -> List[Repo]:
 
 
 @time_it("github_stars.py")
-def main(args: Arguments) -> None:
+def main(args: Arguments, g: Github) -> None:
     """Main processing logic."""
-    repos = get_starred_repos(args.username)
+    repos = get_starred_repos(args.username, g)
     logger.info(f"retrieved starred repos for user {args.username}")
 
     repo_name_to_repo, language_to_repos = index_starred_repos(repos)
@@ -219,4 +217,5 @@ def parse_args() -> Arguments:
 if __name__ == "__main__":
     args = parse_args()
     config_logger(args.verbose)
-    main(args)
+    g = Github(os.environ.get("GIT_TOKEN", ""))
+    main(args, g)
