@@ -1,4 +1,4 @@
-name: ruff
+name: ci
 
 on:
   push:
@@ -18,3 +18,15 @@ jobs:
         run: uv run ruff format --check
       - name: ruff check
         run: uv run ruff check
+
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: astral-sh/setup-uv@v10.3.0
+        with:
+          python-version: "3.9"
+      - name: install dependencies
+        run: uv sync --locked
+      - name: pytest
+        run: uv run pytest

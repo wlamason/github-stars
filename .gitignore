@@ -1,6 +1,9 @@
 venv
 .venv
 .ruff_cache
+.pytest_cache
+__pycache__/
+*.pyc
 *.log
 .vscode
 github_stars.json
