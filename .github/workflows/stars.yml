@@ -12,15 +12,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - uses: astral-sh/setup-uv@v10.3.0
         with:
-          python-version: '3.9'
+          python-version: "3.9"
       - name: install dependencies
-        run: pip install -r requirements.txt
+        run: uv sync --locked --no-dev
       - name: generate stars.md
         env:
           GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
-        run: python3 github_stars.py -v --json wlamason
+        run: uv run --locked --no-dev python github_stars.py -v --json wlamason
       - name: git push
         run: |
           git config --global user.name "41898282+github-actions[bot]@users.noreply.github.com"

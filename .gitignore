@@ -1,4 +1,5 @@
 venv
+.venv
 *.log
 .vscode
 github_stars.json
