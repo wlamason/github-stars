@@ -10,36 +10,61 @@ and leaves the script itself unchanged.
 """
 
 import json
-from types import SimpleNamespace
+from collections.abc import Sequence
+from dataclasses import dataclass
+from pathlib import Path
+
+from pytest import MonkeyPatch
 
 from github_stars import main, parse_args
+
+
+@dataclass
+class FakeRepo:
+    """Repository stand-in with the attributes get_starred_repos reads."""
+
+    full_name: str
+    description: str | None
+    html_url: str
+    homepage: str | None
+    language: str | None
+    open_issues: int
+    stargazers_count: int
 
 
 class FakeUser:
     """User stand-in. get_starred() returns the canned repos."""
 
-    def __init__(self, repos):
+    def __init__(self, repos: list[FakeRepo]) -> None:
         self._repos = repos
 
-    def get_starred(self):
+    def get_starred(self) -> list[FakeRepo]:
         return self._repos
 
 
 class FakeGithub:
     """Github stand-in. Records the username passed to get_user()."""
 
-    def __init__(self, repos):
+    def __init__(self, repos: list[FakeRepo]) -> None:
         self._repos = repos
-        self.usernames = []
+        self.usernames: list[str] = []
 
-    def get_user(self, username):
+    def get_user(self, username: str) -> FakeUser:
         self.usernames.append(username)
         return FakeUser(self._repos)
 
 
-def starred(full_name, *, description, language, stars, homepage="https://example.com", open_issues=0):
+def starred(
+    full_name: str,
+    *,
+    description: str | None,
+    language: str | None,
+    stars: int,
+    homepage: str | None = "https://example.com",
+    open_issues: int = 0,
+) -> FakeRepo:
     """One GitHub repository object, with the attributes get_starred_repos reads."""
-    return SimpleNamespace(
+    return FakeRepo(
         full_name=full_name,
         description=description,
         html_url=f"https://github.com/{full_name}",
@@ -50,7 +75,14 @@ def starred(full_name, *, description, language, stars, homepage="https://exampl
     )
 
 
-def as_repo(tmp_path, monkeypatch, *, hidden_languages=(), hidden_repos=(), overrides=None):
+def as_repo(
+    tmp_path: Path,
+    monkeypatch: MonkeyPatch,
+    *,
+    hidden_languages: Sequence[str] = (),
+    hidden_repos: Sequence[str] = (),
+    overrides: dict[str, dict[str, str]] | None = None,
+) -> Path:
     """Use tmp_path as the repo root, including an overrides.json file."""
     monkeypatch.chdir(tmp_path)
     document = {

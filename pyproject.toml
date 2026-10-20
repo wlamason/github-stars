@@ -75,6 +75,7 @@ dependencies = [
 dev = [
     "pytest>=8.3",
     "ruff>=0.17.1",
+    "ty>=0.0.89",
 ]
 
 # This repository is a script, not an installable package.
@@ -96,3 +97,9 @@ select = ["E", "F", "W", "I", "B", "C4", "UP"]
 testpaths = ["tests"]
 # The script lives at the repo root and is not an installed package.
 pythonpath = ["."]
+
+[tool.ty.environment]
+python-version = "3.15"
+
+[tool.ty.src]
+include = ["github_stars.py", "tests"]

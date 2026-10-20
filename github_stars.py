@@ -5,10 +5,10 @@ import os
 import sys
 import time
 from collections import defaultdict
-from collections.abc import Iterator
+from collections.abc import Generator, Iterable
 from contextlib import contextmanager
 from dataclasses import dataclass
-from typing import TypedDict
+from typing import Protocol, TypedDict
 
 from github import Github
 
@@ -38,8 +38,54 @@ class Repo(TypedDict):
     stars: int
 
 
+class RepoOverrides(TypedDict):
+    """overrides.json document. Override values replace fields on an existing repo."""
+
+    hidden_languages: list[str]
+    hidden_repos: list[str]
+    overrides: dict[str, Repo]
+
+
+class StarredRepo(Protocol):
+    """Repository attributes read from a starred repo."""
+
+    @property
+    def full_name(self) -> str: ...
+
+    @property
+    def description(self) -> str | None: ...
+
+    @property
+    def html_url(self) -> str: ...
+
+    @property
+    def homepage(self) -> str | None: ...
+
+    @property
+    def language(self) -> str | None: ...
+
+    @property
+    def open_issues(self) -> int: ...
+
+    @property
+    def stargazers_count(self) -> int: ...
+
+
+class GithubUser(Protocol):
+    """User object returned by the injected GitHub client."""
+
+    def get_starred(self) -> Iterable[StarredRepo]: ...
+
+
+class GithubClient(Protocol):
+    """The PyGithub calls this script uses. Tests supply a fake with the same shape."""
+
+    # Positional-only: PyGithub names this parameter `login`, the test fake names it `username`.
+    def get_user(self, username: str, /) -> GithubUser: ...
+
+
 @contextmanager
-def time_it(msg: str) -> Iterator[None]:
+def time_it(msg: str) -> Generator[None]:
     start = time.perf_counter_ns()
     try:
         yield
@@ -89,7 +135,7 @@ def update_with_overrides(repo_name_to_repo: dict[str, Repo], overrides: dict[st
         repo_name_to_repo[repo_name].update(overrides[repo_name])
 
 
-def get_repo_overrides() -> dict[str, list[str] | dict[str, Repo]]:
+def get_repo_overrides() -> RepoOverrides:
     """Get repo overrides from overrides.json"""
     with open("overrides.json") as f:
         repo_overrides = json.load(f)
@@ -123,7 +169,7 @@ def index_starred_repos(repos: list[Repo]) -> tuple[dict[str, Repo], dict[str, l
     return repo_name_to_repo, language_to_repos
 
 
-def get_starred_repos(username: str, g: Github) -> list[Repo]:
+def get_starred_repos(username: str, g: GithubClient) -> list[Repo]:
     """Get starred repos for given username from Github API."""
     with time_it("get_user"):
         user = g.get_user(username)
@@ -155,7 +201,7 @@ def get_starred_repos(username: str, g: Github) -> list[Repo]:
 
 
 @time_it("github_stars.py")
-def main(args: Arguments, g: Github) -> None:
+def main(args: Arguments, g: GithubClient) -> None:
     """Main processing logic."""
     repos = get_starred_repos(args.username, g)
     logger.info(f"retrieved starred repos for user {args.username}")
