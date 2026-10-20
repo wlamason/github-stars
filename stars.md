@@ -43,7 +43,7 @@
 # C
 
 - ⭐152587 [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- ⭐77044 [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+- ⭐77043 [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - ⭐37480 [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line media player
 - ⭐35869 [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - ⭐30769 [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
@@ -156,10 +156,10 @@
 
 # Go
 
-- ⭐139415 [golang/go](https://github.com/golang/go) - The Go programming language
+- ⭐139414 [golang/go](https://github.com/golang/go) - The Go programming language
 - ⭐111550 [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - ⭐83686 [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- ⭐78176 [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+- ⭐78177 [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - ⭐72383 [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - ⭐66665 [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - ⭐65289 [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -238,7 +238,7 @@
 - ⭐65292 [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - ⭐52144 [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - ⭐51915 [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- ⭐34113 [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
+- ⭐34112 [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 - ⭐26682 [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
 - ⭐26416 [apache/flink](https://github.com/apache/flink) - Apache Flink
 - ⭐24414 [redisson/redisson](https://github.com/redisson/redisson) - Redisson: Valkey & Redis Java Client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
@@ -455,9 +455,9 @@
 - ⭐58781 [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - ⭐57579 [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - ⭐54521 [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
-- ⭐54346 [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-- ⭐52573 [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
-- ⭐50245 [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- ⭐54347 [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+- ⭐52574 [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
+- ⭐50244 [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - ⭐47222 [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - ⭐46139 [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 - ⭐46049 [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -810,10 +810,10 @@
 # TypeScript
 
 - ⭐392912 [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-- ⭐340487 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- ⭐340492 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - ⭐254912 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - ⭐208094 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- ⭐194036 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+- ⭐194035 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - ⭐143077 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - ⭐126002 [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - ⭐111987 [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -825,7 +825,7 @@
 - ⭐83413 [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - ⭐77397 [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - ⭐76868 [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- ⭐67915 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- ⭐67917 [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - ⭐67550 [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - ⭐66534 [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - ⭐65415 [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
