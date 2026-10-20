@@ -175,7 +175,7 @@
 - ⭐31989 [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - ⭐30685 [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - ⭐26252 [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
-- ⭐25682 [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- ⭐25683 [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - ⭐25559 [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - ⭐24519 [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - ⭐21387 [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -401,7 +401,7 @@
 
 # Markdown
 
-- ⭐554699 [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+- ⭐554700 [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 # Mustache
 
@@ -448,7 +448,7 @@
 - ⭐75218 [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - ⭐74969 [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - ⭐74466 [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
-- ⭐69937 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
+- ⭐69938 [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.
 - ⭐63951 [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - ⭐61636 [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
 - ⭐60205 [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
@@ -694,7 +694,7 @@
 - ⭐8926 [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - ⭐6823 [postgresml/postgresml](https://github.com/postgresml/postgresml) - Postgres with GPUs for ML/AI apps.
 - ⭐6386 [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The live data layer for apps and AI agents. Create up-to-the-second views into your business, just using SQL
-- ⭐5945 [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
+- ⭐5946 [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects
 - ⭐5934 [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - ⭐5841 [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - ⭐5810 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math) - Techniques and numbers for estimating system's performance from first-principles
@@ -810,13 +810,13 @@
 # TypeScript
 
 - ⭐392930 [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-- ⭐341720 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
-- ⭐255063 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
+- ⭐341731 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- ⭐255062 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - ⭐208108 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - ⭐194033 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - ⭐143079 [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - ⭐126014 [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
-- ⭐112046 [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- ⭐112047 [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - ⭐107463 [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - ⭐99824 [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - ⭐91400 [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
