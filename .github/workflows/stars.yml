@@ -20,6 +20,8 @@ jobs:
       - name: install dependencies
         run: uv sync --locked --no-dev
       - name: generate stars.md
+        env:
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: uv run --locked --no-dev python github_stars.py -v --json wlamason
       - name: git push
         run: |
