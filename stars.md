@@ -435,7 +435,7 @@
 - ⭐165084 [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - ⭐148121 [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - ⭐141347 [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- ⭐140253 [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
+- ⭐140254 [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - ⭐104935 [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - ⭐103271 [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - ⭐97914 [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -470,7 +470,7 @@
 - ⭐37482 [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - ⭐36471 [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - ⭐34310 [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
-- ⭐33626 [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
+- ⭐33627 [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.
 - ⭐31925 [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges) - 120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.
 - ⭐31892 [openai/openai-python](https://github.com/openai/openai-python) - The official Python library for the OpenAI API
 - ⭐31358 [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
@@ -509,7 +509,7 @@
 - ⭐16511 [Comfy-Org/ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 - ⭐16510 [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - ⭐16406 [twintproject/twint](https://github.com/twintproject/twint) - An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.
-- ⭐16299 [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
+- ⭐16300 [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - ⭐16198 [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - ⭐15990 [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your dataframe into an interactive UI for visual analysis
 - ⭐15962 [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase 
@@ -659,7 +659,7 @@
 
 # Rust
 
-- ⭐130032 [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- ⭐130033 [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - ⭐126405 [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - ⭐112041 [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - ⭐90921 [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -673,7 +673,7 @@
 - ⭐40128 [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 - ⭐38156 [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - ⭐37495 [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- ⭐36358 [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
+- ⭐36359 [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - ⭐35776 [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - ⭐32540 [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - ⭐31771 [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -810,7 +810,7 @@
 # TypeScript
 
 - ⭐392932 [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
-- ⭐341971 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- ⭐341978 [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - ⭐255112 [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) - DeepSeek Harness: Everything is a Plugin.
 - ⭐208111 [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - ⭐194031 [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
