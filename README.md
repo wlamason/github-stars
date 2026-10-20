@@ -22,13 +22,13 @@ Create markdown file showcasing a user's github stars.
 positional arguments:
   username              User to extract stars from.
 
-optional arguments:
+options:
   -h, --help            show this help message and exit
   -v, --verbose
-  -f FILENAME, --filename FILENAME
+  -f, --filename FILENAME
                         Output markdown filename.
   -j, --json            Write json file with starred repo data.
-  -jf JSON_FILENAME, --json-filename JSON_FILENAME
+  -jf, --json-filename JSON_FILENAME
                         Output json filename.
 ```
 
@@ -65,6 +65,8 @@ The value of `GIT_TOKEN` should be set to a personal access token. I recommend c
 2. Click Generate new token
 
 ## Running Locally
+
+Requires Python 3.15, pinned in `.python-version`.
 
 1. Install [uv](https://docs.astral.sh/uv/getting-started/installation/)
 1. `uv sync`
