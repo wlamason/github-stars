@@ -70,6 +70,14 @@ The value of `GIT_TOKEN` should be set to a personal access token. I recommend c
 1. `uv sync`
 1. `uv run python github_stars.py --help`
 
+## Testing
+
+End-to-end tests live in [`tests/test_github_stars.py`](tests/test_github_stars.py). They call `parse_args` and `main` with a fake GitHub client and write output into a temporary directory, so they do not use the network.
+
+```
+uv run pytest
+```
+
 ## Updating Dependencies
 
 Runtime dependencies live in `pyproject.toml` under `[project] dependencies`. Development dependencies live in the `dev` dependency group. Exact versions are pinned in `uv.lock`.

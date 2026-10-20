@@ -73,6 +73,7 @@ dependencies = [
 # Development dependencies. Installed by default with `uv sync`.
 [dependency-groups]
 dev = [
+    "pytest>=8.3",
     "ruff>=0.17.1",
 ]
 
@@ -90,3 +91,8 @@ target-version = "py39"
 # B: flake8-bugbear. C4: flake8-comprehensions.
 # UP (pyupgrade) is intentionally left off for a later change.
 select = ["E", "F", "W", "I", "B", "C4"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# The script lives at the repo root and is not an installed package.
+pythonpath = ["."]
