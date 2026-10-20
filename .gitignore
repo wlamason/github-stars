@@ -1,5 +1,6 @@
 venv
 .venv
+.ruff_cache
 *.log
 .vscode
 github_stars.json
