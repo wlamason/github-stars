@@ -161,7 +161,7 @@ def main(args: Arguments) -> None:
     logger.info(f"retrieved starred repos for user {args.username}")
 
     repo_name_to_repo, language_to_repos = index_starred_repos(repos)
-    logger.info(f"indexed repos by repo name and language")
+    logger.info("indexed repos by repo name and language")
 
     if args.write_json:
         write_json(repo_name_to_repo, args.json_filename)
